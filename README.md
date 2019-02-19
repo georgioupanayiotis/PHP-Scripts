@@ -12,3 +12,6 @@ Useful php scripts
 <a href="https://github.com/georgioupanayiotis/PHP-Scripts/blob/master/mailchimp_subscribe.php">Add a new subscriber to MailChimp List</a>
 
 <a href="https://github.com/georgioupanayiotis/PHP-Scripts/blob/master/oracle-bronto-send-email.php">Oracle Bronto Send Email</a>
+
+<a href="https://github.com/georgioupanayiotis/PHP-Scripts/blob/master/get_twitter_id_from_url.php">Get twitter id from url</a>
+
